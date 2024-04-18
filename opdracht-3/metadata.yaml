@@ -1,3 +1,0 @@
-#cloud-config
-local-hostname: ${name}
-instance-id: ubuntu-${name}
